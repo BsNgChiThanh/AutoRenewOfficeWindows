@@ -2,13 +2,13 @@
 ## Tạo tác vụ gia hạn tự động Windows và Office hàng tuần, xem như active vĩnh viễn! ##
   - Chạy **Windows PowerShell** bằng quyền **Run as Administrator** rồi dán đoạn lệnh này vào, nhấn enter:
     ```php
-    irm https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Office/KichHoatOffice/GiaHanKichHoat.ps1 | iex
+    irm https://bit.ly/3X49Sgt | iex
     ```
 
     Hoặc:
 
     ```php
-    irm https://bit.ly/3X49Sgt | iex
+    irm https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Office/KichHoatOffice/GiaHanKichHoat.ps1 | iex
     ```
     
   - ![image](https://github.com/BsNgChiThanh/AutoRenewOfficeWindows/assets/82578024/84b03160-6de7-4413-87d1-619dcb13be30)
