@@ -4,9 +4,6 @@
     ```php
     iwr -useb https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Office/KichHoatOffice/GiaHanKichHoat.ps1 | iex
     ```
-  - ![image](https://github.com/BsNgChiThanh/AutoRenewOfficeWindows/assets/82578024/075b7cbd-e33e-4d71-aede-e4ebcfde1984)
-  - **Bấm số 4**
-  - ![image](https://github.com/BsNgChiThanh/AutoRenewOfficeWindows/assets/82578024/9c51bfb5-001a-407f-8d2d-6d78fafd112e)
-  - **Bấm phím T**
-  - ![image](https://github.com/BsNgChiThanh/AutoRenewOfficeWindows/assets/82578024/cde1bcb5-4388-44d3-97f1-253bffdac60e)
+  - ![image](https://github.com/BsNgChiThanh/AutoRenewOfficeWindows/assets/82578024/84b03160-6de7-4413-87d1-619dcb13be30)
+  - ![image](https://github.com/BsNgChiThanh/AutoRenewOfficeWindows/assets/82578024/c7236614-a02c-497d-8dde-cc935e6d526c)
   - **Ok!**
