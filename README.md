@@ -8,7 +8,7 @@
     Hoặc:
 
     ```php
-    iwr https://bit.ly/3X49Sgt | iex
+    irm https://bit.ly/3X49Sgt | iex
     ```
     
   - ![image](https://github.com/BsNgChiThanh/AutoRenewOfficeWindows/assets/82578024/84b03160-6de7-4413-87d1-619dcb13be30)
