@@ -1,7 +1,7 @@
 # AutoRenew Office Windows ##
 - ![image](https://github.com/user-attachments/assets/892ab962-1334-4126-9b74-42be48da0f04)
 - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
-- 
+ 
 ## Tạo tác vụ gia hạn tự động Windows và Office hàng tuần, xem như active vĩnh viễn! ##
   - Chạy **Windows PowerShell** bằng quyền **Run as Administrator** rồi dán đoạn lệnh này vào, nhấn enter:
    
